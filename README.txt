@@ -1,5 +1,5 @@
 
-# README for Remix: Jeopardy! #
+# README for Jeopardy! #
 
 This is the README file for the Remix: Jeopardy! app. It's a great place to write
 down some notes about how your app works. For starters, here is some information
